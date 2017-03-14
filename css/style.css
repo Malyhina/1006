@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.main{
+  width:912px; height: 1292px; background-color: gray; margin: 0px auto;
+}
+.footer{
+  width:912px; height: 26px; background-color: red;
+}
+.logo{
+  width:909px; height: 237px; background-color: yellow; margin: 0px auto;
+}
+.menu{
+  width:912px; height: 34px; background-color: red;
+}
+.search_auto{
+  width:415px; height: 133px; background-color: black; float left;
+}
+.search_tier{
+  width:195px; height: 137px; background-color: blue; float left;
+}
+.search_disc{
+  width:269px; height: 136px; background-color: green; float left;
+}

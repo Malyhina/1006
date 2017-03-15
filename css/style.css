@@ -14,12 +14,33 @@
 .menu{
   width:912px; height: 34px; background-color: red;
 }
-.search_auto{
-  width:415px; height: 133px; background-color: black; float left;
+.forms{
+  width:912px; height: 162px;
 }
-.search_tier{
-  width:195px; height: 137px; background-color: blue; float left;
+.search_auto{
+  width:415px; height: 133px; background-color: black; float: left;
+}
+.search_tire{
+  width:195px; height: 137px; background-color: blue; float: left;
 }
 .search_disc{
-  width:269px; height: 136px; background-color: green; float left;
+  width:269px; height: 136px; background-color: green;  float: left;
+}
+.products{
+  width:912px; height: 628px;  background-color: red;
+}
+.catalog{
+  width:192px; height: 628px;  background-color: yellow; float: left;
+}
+.images{
+  width:526px; height: 628px;  background-color: green; float: left;
+}
+.brends{
+  width:192px; height: 628px;  background-color: yellow; float: left;
+}
+.logos{
+    width:912px; height: 90px; background-color: white;
+}
+.footer{
+  width:910px; height: 101px; background-color: black;
 }

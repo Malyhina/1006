@@ -3,10 +3,20 @@
   margin: 0;
 }
 .main{
-  width:912px; height: 1292px; background-color: gray; margin: 0px auto;
+  width:912px; height: 1292px; background-color: gray;  position: absolute; margin: 0px auto;
 }
 .footer{
-  width:912px; height: 26px; background-color: red;
+  width:912px; height: 26px; background-color: white; display: inline-block; margin-top: 22px;
+}
+.phone{
+  width: 22px;
+  margin-left: 0;
+  float: left;
+}
+.number{
+  margin-left: 10%;
+  width: 300px;
+  height: 15px;
 }
 .logo{
   width:909px; height: 237px; background-color: yellow; margin: 0px auto;
@@ -40,7 +50,4 @@
 }
 .logos{
     width:912px; height: 90px; background-color: white;
-}
-.footer{
-  width:910px; height: 101px; background-color: black;
 }

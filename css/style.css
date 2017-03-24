@@ -20,6 +20,10 @@ height: 27px;
   width: 300px;
   height: 27px;
   border: solid 1px black;
+  text-decoration-color: gray;
+}
+.number_{
+    text-decoration-color: gray;
 }
 .login{
   width: 496px;
@@ -122,6 +126,60 @@ height: 27px;
   height: 95px;
   border: solid 1px black;
 }
+.catalog_3_ul{
+list-style: circle;
+}
+.catalog_3_ul > a {
+
+}
+.catalog_3_li{
+margin: 5px;
+}
+.catalog_3_li > a{
+  text-decoration: none;
+  color: rgb(70,89,97);
+}
+.catalog_3_li > a:hover{
+text-decoration: underline;
+font-style: italic;
+color: rgb(12,50,86);
+}
+.catalog_5_ul{
+list-style: circle;
+}
+.catalog_5_ul > a {
+
+}
+.catalog_5_li{
+margin: 5px;
+}
+.catalog_5_li > a{
+  text-decoration: none;
+  color: rgb(70,89,97);
+}
+.catalog_5_li > a:hover{
+text-decoration: underline;
+font-style: italic;
+color: rgb(12,50,86);
+}
+.catalog_7_ul{
+list-style: circle;
+}
+.catalog_7_ul > a {
+
+}
+.catalog_7_li{
+margin: 5px;
+}
+.catalog_7_li > a{
+  text-decoration: none;
+  color: rgb(70,89,97);
+}
+.catalog_7_li > a:hover{
+text-decoration: underline;
+font-style: italic;
+color: rgb(12,50,86);
+}
 .catalog_4{
   float: left;
   width: 151px;
@@ -196,4 +254,7 @@ height: 27px;
 }
 .logos{
     width:912px; height: 90px; background-color: white;
+}
+.footer{
+width:910px; height: 100px;background-color:  rgb( 33, 58,77)
 }
